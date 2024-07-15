@@ -1,10 +1,11 @@
+#Code soft internship Task:-2
 # Simple Calculator Program
 
-# Prompt the user to input two numbers
+#  take the user to input two numbers
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
-# Prompt the user to input an operation choice
+ #take the user to input an operation choice
 print("Choose an operation:")
 print("1. Addition (+)")
 print("2. Subtraction (-)")
